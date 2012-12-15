@@ -10,7 +10,7 @@
 	<packaging>jar</packaging>
 	<version>0.12.2</version>
 
-	<name>Compass Gem in a Jar</name>
+	<name>Compass Gem-in-a-Jar</name>
 
 	<properties>
 		<java.version>1.6</java.version>
